@@ -1,0 +1,9 @@
+Test_Idx,Image_File,True,Pred,Confidence,Prob_True_Class,Hipotesis
+280,american_bulldog_54.jpg,American Bulldog,Boxer,0.981,0.0168,
+7,beagle_189.jpg,Beagle,American Bulldog,0.9569,0.0193,
+272,Bengal_134.jpg,Bengal,Abyssinian,0.9465,0.0529,
+114,Bombay_160.jpg,Bombay,Abyssinian,0.9411,0.0144,
+25,american_pit_bull_terrier_27.jpg,American Pit Bull Terrier,American Bulldog,0.9208,0.0568,
+190,Abyssinian_215.jpg,Abyssinian,Bengal,0.7827,0.1704,
+112,boxer_18.jpg,Boxer,American Bulldog,0.7555,0.2109,
+256,american_bulldog_102.jpg,American Bulldog,Boxer,0.6492,0.0299,
