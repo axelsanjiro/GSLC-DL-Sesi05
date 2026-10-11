@@ -68,8 +68,8 @@ B2, B3, dan B5 tidak signifikan secara statistik. Rincian analisis ada di lapora
 Prasyarat: Python 3.10+ dan, sangat disarankan, GPU NVIDIA dengan CUDA (di CPU pelatihan sangat lambat).
 
 ```bash
-git clone <url-repositori-ini>
-cd <nama-repositori>
+git clone <https://github.com/axelsanjiro/GSLC-DL-Sesi05>
+cd <GSLC-DL-Sesi05>
 
 python -m venv .venv
 # Linux/macOS: source .venv/bin/activate
